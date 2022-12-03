@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog.juanertu.com/sitemap.xml
-Sitemap: https://blog.juanertu.com/baidusitemap.xml
+Sitemap: https://kuan525.com/sitemap.xml
+Sitemap: https://kuan525.com/baidusitemap.xml
