@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kuan525.com/post/4e348346.html</loc>
+    
+    <lastmod>2022-12-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kuan525.com/post/b2626942.html</loc>
     
     <lastmod>2022-12-03</lastmod>
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://kuan525.com/post/444e3658.html</loc>
+    <loc>https://kuan525.com/post/4bef7b6a.html</loc>
     
     <lastmod>2022-12-03</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://kuan525.com/post/4bef7b6a.html</loc>
+    <loc>https://kuan525.com/post/444e3658.html</loc>
     
     <lastmod>2022-12-03</lastmod>
     
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://kuan525.com/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,14 +102,14 @@
   
   <url>
     <loc>https://kuan525.com/tags/Gee/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kuan525.com/tags/Algorithm/</loc>
-    <lastmod>2022-12-03</lastmod>
+    <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
